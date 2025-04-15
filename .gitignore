@@ -1,0 +1,50 @@
+# 数据集目录
+outputs/
+orange_split_dataset/
+orange_processed_data/
+
+# 模型文件
+*.pth
+*.pt
+*.h5
+*.hdf5
+*.pkl
+*.model
+*.weights
+
+# 图片文件
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# 日志文件
+*.log
+logs/
+
+# 环境文件
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db 
